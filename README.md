@@ -1,2 +1,5 @@
 # leadership-kcgi
-The work of Leadership at KCGI.
+
+リーダーシップの宿題
+
+Homework of Leadership
