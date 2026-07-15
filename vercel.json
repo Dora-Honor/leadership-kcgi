@@ -1,8 +1,9 @@
 {
+  "regions": ["kix1"],
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/"
     }
   ]
 }
