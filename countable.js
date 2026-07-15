@@ -6,7 +6,7 @@ var defaultOptions = {
     float: "right",
     fontsize: "0.9em",
     color: "rgb(90,90,90)",
-    language: "english",
+    language: "japanese",
     localization: {
         words: "",
         minute: "",
